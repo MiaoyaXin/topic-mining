@@ -2,7 +2,7 @@
 
 功能：从N篇文章中进行话题挖掘并聚类
 
-参考：
+感谢：
 
 1 https://github.com/hankcs/HanLP
 
