@@ -1,5 +1,4 @@
 import com.hankcs.hanlp.corpus.document.sentence.word.Word;
-import com.hankcs.lda.*;
 import com.hankcs.hanlp.HanLP;
 import com.hankcs.hanlp.model.perceptron.PerceptronLexicalAnalyzer;
 import com.hankcs.Config;
@@ -8,7 +7,7 @@ import java.io.*;
 import java.util.*;
 import java.util.regex.Pattern;
 
-public class topicMining{
+public class TopicMining{
 
     public static void main(String[] args) throws Exception{
 //        // 训练语料处理入口
